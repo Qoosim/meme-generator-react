@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Karla:wght@300;400;500;600&display=swap');
+/*
+font-family: 'Inter', sans-serif;
+font-family: 'Karla', sans-serif;
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  padding: 20px;
+  height: 65px;
+  color: #fff;
+}
+
+.header-image {
+  height: 100%;
+  margin-right: 6px;
+}
+
+.header-title {
+  font-size: 1.25rem;
+  margin-right: auto;
+}
+
+.header-project {
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+/* Meme Styling */
+.btnGet {
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  color: #fff;
+}
+
+.btnGet:hover {
+  color: #ccc;
+}
