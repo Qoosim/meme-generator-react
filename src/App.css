@@ -43,3 +43,8 @@ font-family: 'Karla', sans-serif;
 .btnGet:hover {
   color: #ccc;
 }
+
+.meme-image {
+  width: 100%;
+  margin-top: 50px;
+}
