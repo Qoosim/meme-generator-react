@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Header() {
-  return(
+  return (
     <header className="header">
       <img src="assets/troll-face.png" className="header-image" alt="face" />
       <h2 className="header-title">Meme Generator</h2>
